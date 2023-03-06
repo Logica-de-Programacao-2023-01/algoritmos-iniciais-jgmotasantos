@@ -2,5 +2,6 @@ Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatur
 Ler: Unidade F para Farenheit
 Ler: Unidade C para Celsius
 Ler: T para Temperatura
-Resultado = TC = TF-32/9.5
-Ler Resultado
+Se TC desconhecido Resultado = TC = TF-32/9.5
+Se TF deesconhecido TC/5 = TF-32/9
+Ler Reasultado
