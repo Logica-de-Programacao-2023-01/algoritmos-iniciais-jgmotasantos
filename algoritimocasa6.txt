@@ -1,0 +1,13 @@
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+
+
+Ler X como numero
+Ler N como expoente
+Atribuir valores a X e N
+Para o Resultado da potencia X^N
+Se N = 0 
+Entao X = 1
+Senao o valor de X^N sera X * X o valor de N vezes
+Exibir Resultado
+Fim
+
