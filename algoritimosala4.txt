@@ -1,0 +1,5 @@
+Ler: "!" como fatorial
+Ler; n como variavel
+Para cada valor da variavel ! = 1*2*3*4*5 ate o valor da variavel n
+escreva resultado
+
