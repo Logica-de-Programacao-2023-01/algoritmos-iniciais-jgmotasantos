@@ -1,0 +1,4 @@
+Ler:x
+Ler:y
+Resultado = x + y
+Ler Resultado
