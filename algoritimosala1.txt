@@ -2,3 +2,4 @@ Ler:x
 Ler:y
 Resultado = x + y
 Ler Resultado
+Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
